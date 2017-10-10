@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,p,blockquote,th,td,input,select,textarea,button,figure{ margin:0; padding:0 }
+fieldset,img { border:none }
+img { vertical-align:top }
+dl,ul,ol,li { list-style:none }
+blockquote, q { quotes:none }
+blockquote:before, blockquote:after,q:before, q:after { content:''; content:none }
+input,select,textarea,button { vertical-align:middle }
+button { border:none; background-color:transparent; cursor:pointer }
+label { cursor:pointer }
+html { height:100% }
+body { min-height:100%; background:#fff; line-height:1 }
+body,th,td,input,select,textarea,button { font-family:'돋움', dotum, sans-serif; font-size:12px; color:#666 }
+a { color:#333; text-decoration:none }
+a:active, a:hover { text-decoration:none }
+address,caption,cite,code,dfn,em,var { font-style:normal; font-weight:normal }
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section { display:block }
+table { width:100%; border-collapse:collapse; border-spacing:0 }
