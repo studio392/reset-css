@@ -6,11 +6,11 @@ Default stylesheet for websites
 **html document header in link tag:**
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/reset-css/b9bd0386/reset.css" />
+<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/reset-css/master/reset.css" />
 ```
 
 **stylesheet document in @import:**
 
 ```css
-@import url(https://cdn.rawgit.com/studio392/reset-css/b9bd0386/reset.css);
+@import url(https://cdn.rawgit.com/studio392/reset-css/master/reset.css);
 ```
